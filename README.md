@@ -29,7 +29,8 @@ x=temp
 print("Swapped values are:",x,y)
 ```
 ## OUTPUT:
-![output](/swapping-of-two-numbers.png)
+![image](https://github.com/Thajesh2/Swapping-two-values/assets/139841959/4cc545a1-a5aa-4bf2-bd3c-1e7cb5aa377b)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
